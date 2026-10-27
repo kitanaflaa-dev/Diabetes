@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Pig Dice</string>
+  <string name="title">Pig Dice</string>
+  <string name="who_turn">Current: %1$s</string>
+  <string name="human">You</string>
+  <string name="computer">Computer</string>
+  <string name="games_won">Games Won — You: %1$d  Computer: %2$d</string>
+  <string name="total_score">Total: %1$d</string>
+  <string name="turn_score">Turn: %1$d</string>
+  <string name="roll_sum">Rolled: %1$d</string>
+  <string name="roll">ROLL</string>
+  <string name="hold">HOLD</string>
+  <string name="start_new">Tap to start new game</string>
+  <string name="developer_info">Developed by: Kitana</string>
+  <string name="about_button">About</string>
+  <string name="contact_button">Contact</string>
+  <string name="tap_to_continue">Tap anywhere to continue</string>
+  <string name="leaderboard_title">Leaderboard</string>
+  <string name="leaderboard_button">Leaderboard</string>
+  <string name="play_game">Play Game</string>
+  <string name="leaderboard_empty">No games played yet.</string>
+</resources>

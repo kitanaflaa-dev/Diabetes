@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Juego Pig</string>
+  <string name="title">Juego Pig</string>
+  <string name="who_turn">Turno actual: %1$s</string>
+  <string name="human">Tú</string>
+  <string name="computer">Computadora</string>
+  <string name="games_won">Partidas ganadas — Tú: %1$d  Computadora: %2$d</string>
+  <string name="total_score">Total: %1$d</string>
+  <string name="turn_score">Turno: %1$d</string>
+  <string name="roll_sum">Tirada: %1$d</string>
+  <string name="roll">TIRAR</string>
+  <string name="hold">GUARDAR</string>
+  <string name="start_new">Toca para iniciar juego nuevo</string>
+  <string name="developer_info">Desarrollado por: Kitana</string>
+  <string name="about_button">Acerca de</string>
+  <string name="contact_button">Contacto</string>
+  <string name="tap_to_continue">Toca en cualquier lugar para continuar</string>
+  <string name="leaderboard_title">Tabla de posiciones</string>
+  <string name="leaderboard_button">Marcador</string>
+  <string name="play_game">Jugar</string>
+  <string name="leaderboard_empty">Todavía no hay partidas.</string>
+</resources>
